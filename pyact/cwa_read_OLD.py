@@ -1,5 +1,7 @@
 # OLD versions of cwa_read functions changed to class based
 
+#test
+
 def read_header_dict(fid, numDBlocks):
     """
     :param fid: Numpy array of bytes
