@@ -20,6 +20,9 @@ lib
 lib64
 .cache
 
+# Virtual Environment
+venv/
+
 # Installer logs
 pip-log.txt
 
